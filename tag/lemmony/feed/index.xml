@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lemmony &#8211; My blog</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 12 May 2023 18:42:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>What You Should Know When Making a Showcase For Your Products</title>
+		<link>./../../../2023/05/12/what-you-should-know-when-making-a-showcase-for-your-products/index.html</link>
+					<comments>./../../../2023/05/12/what-you-should-know-when-making-a-showcase-for-your-products/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bxal2y]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 18:42:53 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Lemmony]]></category>
+		<guid isPermaLink="false">./../../../2023/05/12/what-you-should-know-when-making-a-showcase-for-your-products/index.html</guid>
+
+					<description><![CDATA[Hear me out, I’m not crazy. Well a bit but that’s not the point]]></description>
+										<content:encoded><![CDATA[<?php
+/**
+ * Title: Post content
+ * Slug: lemmony/post-content
+ * Categories: lemmony-patterns
+ */
+?>
+
+<h2 class="has-large-font-size wp-block-heading">A Large Title</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Procrastination in just an exceptional sense of understanding about when things should actually happen.</p><cite>Tim Lemons</cite></blockquote></figure>
+
+
+
+<h3 class="has-medium-plus-font-size wp-block-heading">The Smaller Title</h3>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-3">
+<div class="wp-block-column is-layout-flow">
+<ul>
+<li><strong>Bullet points</strong> make a great dot</li>
+
+
+
+<li><strong>Great way</strong> to make a point</li>
+
+
+
+<li><strong>A well-sorted</strong> fact</li>
+
+
+
+<li><strong>A very </strong>informative black spot</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<ol>
+<li>Start with <strong>One</strong></li>
+
+
+
+<li>Then proceed to <strong>Dos</strong></li>
+
+
+
+<li>Hello from Japan – <strong>San</strong></li>
+
+
+
+<li>This is <strong>Quatre</strong></li>
+</ol>
+</div>
+</div>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>If life gives you lemons.. make an elaborate corporate lemon juice pyramid scheme.</p>
+<cite>Lemmony Meadow</cite></blockquote>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-6">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post1.jpg" alt="" class="wp-image-2998"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the left</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-9">
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the right</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci sodales molestie. Morbi interdum lectus in porta pharetra.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post2.jpg" alt="" class="wp-image-2999"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/05/12/what-you-should-know-when-making-a-showcase-for-your-products/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Is Getting a Dog The First Step To Parenthood?</title>
+		<link>./../../../2023/05/12/is-getting-a-dog-the-first-step-to-parenthood/index.html</link>
+					<comments>./../../../2023/05/12/is-getting-a-dog-the-first-step-to-parenthood/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bxal2y]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 18:42:53 +0000</pubDate>
+				<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Lemmony]]></category>
+		<guid isPermaLink="false">./../../../2023/05/12/is-getting-a-dog-the-first-step-to-parenthood/index.html</guid>
+
+					<description><![CDATA[Hear me out, I’m not crazy. Well a bit but that’s not the point]]></description>
+										<content:encoded><![CDATA[<?php
+/**
+ * Title: Post content
+ * Slug: lemmony/post-content
+ * Categories: lemmony-patterns
+ */
+?>
+
+<h2 class="has-large-font-size wp-block-heading">A Large Title</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Procrastination in just an exceptional sense of understanding about when things should actually happen.</p><cite>Tim Lemons</cite></blockquote></figure>
+
+
+
+<h3 class="has-medium-plus-font-size wp-block-heading">The Smaller Title</h3>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-12">
+<div class="wp-block-column is-layout-flow">
+<ul>
+<li><strong>Bullet points</strong> make a great dot</li>
+
+
+
+<li><strong>Great way</strong> to make a point</li>
+
+
+
+<li><strong>A well-sorted</strong> fact</li>
+
+
+
+<li><strong>A very </strong>informative black spot</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<ol>
+<li>Start with <strong>One</strong></li>
+
+
+
+<li>Then proceed to <strong>Dos</strong></li>
+
+
+
+<li>Hello from Japan – <strong>San</strong></li>
+
+
+
+<li>This is <strong>Quatre</strong></li>
+</ol>
+</div>
+</div>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>If life gives you lemons.. make an elaborate corporate lemon juice pyramid scheme.</p>
+<cite>Lemmony Meadow</cite></blockquote>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-15">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post1.jpg" alt="" class="wp-image-2998"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the left</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-18">
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the right</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci sodales molestie. Morbi interdum lectus in porta pharetra.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post2.jpg" alt="" class="wp-image-2999"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/05/12/is-getting-a-dog-the-first-step-to-parenthood/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Is Design Becoming Too Minimalistic in 2023?</title>
+		<link>./../../../2023/05/12/is-design-becoming-too-minimalistic-in-2023/index.html</link>
+					<comments>./../../../2023/05/12/is-design-becoming-too-minimalistic-in-2023/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bxal2y]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 18:42:52 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Lemmony]]></category>
+		<guid isPermaLink="false">./../../../2023/05/12/is-design-becoming-too-minimalistic-in-2023/index.html</guid>
+
+					<description><![CDATA[Hear me out, I’m not crazy. Well a bit but that’s not the point]]></description>
+										<content:encoded><![CDATA[<?php
+/**
+ * Title: Post content
+ * Slug: lemmony/post-content
+ * Categories: lemmony-patterns
+ */
+?>
+
+<h2 class="has-large-font-size wp-block-heading">A Large Title</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Procrastination in just an exceptional sense of understanding about when things should actually happen.</p><cite>Tim Lemons</cite></blockquote></figure>
+
+
+
+<h3 class="has-medium-plus-font-size wp-block-heading">The Smaller Title</h3>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-21">
+<div class="wp-block-column is-layout-flow">
+<ul>
+<li><strong>Bullet points</strong> make a great dot</li>
+
+
+
+<li><strong>Great way</strong> to make a point</li>
+
+
+
+<li><strong>A well-sorted</strong> fact</li>
+
+
+
+<li><strong>A very </strong>informative black spot</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<ol>
+<li>Start with <strong>One</strong></li>
+
+
+
+<li>Then proceed to <strong>Dos</strong></li>
+
+
+
+<li>Hello from Japan – <strong>San</strong></li>
+
+
+
+<li>This is <strong>Quatre</strong></li>
+</ol>
+</div>
+</div>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>If life gives you lemons.. make an elaborate corporate lemon juice pyramid scheme.</p>
+<cite>Lemmony Meadow</cite></blockquote>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-24">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post1.jpg" alt="" class="wp-image-2998"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the left</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-27">
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the right</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci sodales molestie. Morbi interdum lectus in porta pharetra.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post2.jpg" alt="" class="wp-image-2999"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/05/12/is-design-becoming-too-minimalistic-in-2023/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Stay Productive When Working From Home</title>
+		<link>./../../../2023/05/12/how-to-stay-productive-when-working-from-home/index.html</link>
+					<comments>./../../../2023/05/12/how-to-stay-productive-when-working-from-home/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bxal2y]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 18:42:52 +0000</pubDate>
+				<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Lemmony]]></category>
+		<guid isPermaLink="false">./../../../2023/05/12/how-to-stay-productive-when-working-from-home/index.html</guid>
+
+					<description><![CDATA[Hear me out, I’m not crazy. Well a bit but that’s not the point]]></description>
+										<content:encoded><![CDATA[<?php
+/**
+ * Title: Post content
+ * Slug: lemmony/post-content
+ * Categories: lemmony-patterns
+ */
+?>
+
+<h2 class="has-large-font-size wp-block-heading">A Large Title</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Procrastination in just an exceptional sense of understanding about when things should actually happen.</p><cite>Tim Lemons</cite></blockquote></figure>
+
+
+
+<h3 class="has-medium-plus-font-size wp-block-heading">The Smaller Title</h3>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-30">
+<div class="wp-block-column is-layout-flow">
+<ul>
+<li><strong>Bullet points</strong> make a great dot</li>
+
+
+
+<li><strong>Great way</strong> to make a point</li>
+
+
+
+<li><strong>A well-sorted</strong> fact</li>
+
+
+
+<li><strong>A very </strong>informative black spot</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<ol>
+<li>Start with <strong>One</strong></li>
+
+
+
+<li>Then proceed to <strong>Dos</strong></li>
+
+
+
+<li>Hello from Japan – <strong>San</strong></li>
+
+
+
+<li>This is <strong>Quatre</strong></li>
+</ol>
+</div>
+</div>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>If life gives you lemons.. make an elaborate corporate lemon juice pyramid scheme.</p>
+<cite>Lemmony Meadow</cite></blockquote>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-33">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post1.jpg" alt="" class="wp-image-2998"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the left</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-36">
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the right</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci sodales molestie. Morbi interdum lectus in porta pharetra.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post2.jpg" alt="" class="wp-image-2999"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/05/12/how-to-stay-productive-when-working-from-home/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Talking to Inanimate Objects Made Me a Better Designer</title>
+		<link>./../../../2023/05/12/talking-to-inanimate-objects-made-me-a-better-designer/index.html</link>
+					<comments>./../../../2023/05/12/talking-to-inanimate-objects-made-me-a-better-designer/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bxal2y]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 18:42:52 +0000</pubDate>
+				<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Lemmony]]></category>
+		<guid isPermaLink="false">./../../../2023/05/12/talking-to-inanimate-objects-made-me-a-better-designer/index.html</guid>
+
+					<description><![CDATA[Hear me out, I’m not crazy. Well a bit but that’s not the point]]></description>
+										<content:encoded><![CDATA[<?php
+/**
+ * Title: Post content
+ * Slug: lemmony/post-content
+ * Categories: lemmony-patterns
+ */
+?>
+
+<h2 class="has-large-font-size wp-block-heading">A Large Title</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Procrastination in just an exceptional sense of understanding about when things should actually happen.</p><cite>Tim Lemons</cite></blockquote></figure>
+
+
+
+<h3 class="has-medium-plus-font-size wp-block-heading">The Smaller Title</h3>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-39">
+<div class="wp-block-column is-layout-flow">
+<ul>
+<li><strong>Bullet points</strong> make a great dot</li>
+
+
+
+<li><strong>Great way</strong> to make a point</li>
+
+
+
+<li><strong>A well-sorted</strong> fact</li>
+
+
+
+<li><strong>A very </strong>informative black spot</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<ol>
+<li>Start with <strong>One</strong></li>
+
+
+
+<li>Then proceed to <strong>Dos</strong></li>
+
+
+
+<li>Hello from Japan – <strong>San</strong></li>
+
+
+
+<li>This is <strong>Quatre</strong></li>
+</ol>
+</div>
+</div>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>If life gives you lemons.. make an elaborate corporate lemon juice pyramid scheme.</p>
+<cite>Lemmony Meadow</cite></blockquote>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-42">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post1.jpg" alt="" class="wp-image-2998"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the left</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-45">
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the right</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci sodales molestie. Morbi interdum lectus in porta pharetra.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post2.jpg" alt="" class="wp-image-2999"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/05/12/talking-to-inanimate-objects-made-me-a-better-designer/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How Smartphones Have Influenced Our Way Of Thinking</title>
+		<link>./../../../2023/05/12/how-smartphones-have-influenced-our-way-of-thinking/index.html</link>
+					<comments>./../../../2023/05/12/how-smartphones-have-influenced-our-way-of-thinking/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bxal2y]]></dc:creator>
+		<pubDate>Fri, 12 May 2023 18:42:51 +0000</pubDate>
+				<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Lemmony]]></category>
+		<guid isPermaLink="false">./../../../2023/05/12/how-smartphones-have-influenced-our-way-of-thinking/index.html</guid>
+
+					<description><![CDATA[Hear me out, I’m not crazy. Well a bit but that’s not the point]]></description>
+										<content:encoded><![CDATA[<?php
+/**
+ * Title: Post content
+ * Slug: lemmony/post-content
+ * Categories: lemmony-patterns
+ */
+?>
+
+<h2 class="has-large-font-size wp-block-heading">A Large Title</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Procrastination in just an exceptional sense of understanding about when things should actually happen.</p><cite>Tim Lemons</cite></blockquote></figure>
+
+
+
+<h3 class="has-medium-plus-font-size wp-block-heading">The Smaller Title</h3>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-48">
+<div class="wp-block-column is-layout-flow">
+<ul>
+<li><strong>Bullet points</strong> make a great dot</li>
+
+
+
+<li><strong>Great way</strong> to make a point</li>
+
+
+
+<li><strong>A well-sorted</strong> fact</li>
+
+
+
+<li><strong>A very </strong>informative black spot</li>
+</ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<ol>
+<li>Start with <strong>One</strong></li>
+
+
+
+<li>Then proceed to <strong>Dos</strong></li>
+
+
+
+<li>Hello from Japan – <strong>San</strong></li>
+
+
+
+<li>This is <strong>Quatre</strong></li>
+</ol>
+</div>
+</div>
+
+
+
+<p>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>If life gives you lemons.. make an elaborate corporate lemon juice pyramid scheme.</p>
+<cite>Lemmony Meadow</cite></blockquote>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-51">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post1.jpg" alt="" class="wp-image-2998"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the left</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta</p>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-54">
+<div class="wp-block-column is-layout-flow">
+<h3 class="has-medium-font-size wp-block-heading">The image on the right</h3>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a orci bibendum, egestas quam et, mollis massa. Nam id diam et lacus facilisis viverra in quis metus. Donec nibh mi, porttitor scelerisque molestie ac, pharetra vitae arcu. Morbi sollicitudin, arcu non dignissim luctus, risus massa rhoncus dolor, ut accumsan diam nulla sit amet neque. Etiam quam nibh, porta ac diam maximus, porta sagittis ex. Cras ac lectus sit amet orci sodales molestie. Morbi interdum lectus in porta pharetra.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" src="./../../../wp-content/themes/lemmony/assets/media/content/blog-post2.jpg" alt="" class="wp-image-2999"/><figcaption class="wp-element-caption">Image by Matteo-vella at Unsplash.</figcaption></figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2023/05/12/how-smartphones-have-influenced-our-way-of-thinking/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
