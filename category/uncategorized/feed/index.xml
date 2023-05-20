@@ -13,12 +13,12 @@
 	<link>./../../../index.html</link>
 	<description></description>
 	<lastBuildDate>Sun, 07 May 2023 19:13:27 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>en</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Hello world!</title>
 		<link>./../../../2023/05/07/hello-world/index.html</link>
